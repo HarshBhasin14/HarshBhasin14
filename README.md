@@ -1,5 +1,5 @@
 # 💫 About Me:
-Experienced programmer having expertise in Artificial Intelligence(AI), Machine Learning, Deep Learning<br> and mathematical applications, demonstrated a deep understanding of Advanced Mathematical Concepts,<br> quantum mechanics, cyber security and their potential to revolutionize problem-solving in complex<br> computing environments.
+Experienced programmer having forte in Artificial Intelligence(AI), Machine Learning, Deep Learning, Network Pentesting<br> and mathematical applications, demonstrated a deep understanding of Advanced Mathematical Concepts,<br> quantum mechanics, cyber security and their potential to revolutionize problem-solving in complex<br> computing environments.
 
 
 ## 🌐 Socials:
